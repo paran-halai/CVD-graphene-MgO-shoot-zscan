@@ -8,6 +8,7 @@ directly to the MgO substrate.
 
 Designed for use with VASP CONTCAR/POSCAR files containing an
 MgO slab with a carbon cluster (species order: Mg, O, C).
+"""
 
 import numpy as np
 import random
